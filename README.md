@@ -12,6 +12,8 @@ short_description: Audio to text summary
 
 # SummarAI-Z
 
+**Live demo:** https://huggingface.co/spaces/s03f3ff/SummarAI-Z (it sleeps when idle — give it a minute to wake)
+
 **Talk, get a summary.** SummarAI-Z takes audio — from your microphone or an uploaded file — transcribes it to text, and condenses the transcript into a short summary.
 
 ## How it works
